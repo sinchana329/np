@@ -1,0 +1,6 @@
+{
+  "name": "TCP Congestion Control Performance Simulator",
+  "description": "An interactive WebAssembly simulator and academic dashboard for analyzing TCP Tahoe, Reno, and NewReno algorithms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
